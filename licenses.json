@@ -1,1 +1,11 @@
-{"keys": {}}
+{
+  "keys": {
+    "bc0f964f87850a2b877a98ad2a79f8488f8d65b35969d336e7d081632946afdf": {
+      "customer": "Khách hàng VIP",
+      "hwid": "e289c5ebbd793d1f49b4652175452722cf684897a889cefcaf3a9c516835a49c",
+      "expires": "2027-05-14",
+      "active": true,
+      "created_at": "2026-11-15 00:31"
+    }
+  }
+}
