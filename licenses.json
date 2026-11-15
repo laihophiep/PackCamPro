@@ -4,7 +4,7 @@
       "customer": "Khách hàng VIP",
       "hwid": "e289c5ebbd793d1f49b4652175452722cf684897a889cefcaf3a9c516835a49c",
       "expires": "2027-05-14",
-      "active": false,
+      "active": true,
       "created_at": "2026-11-15 00:31"
     },
     "e09d7ac2f74a2b797fa9291334c62f3ec9781f706f04eb94a5e89071d32253d9": {
